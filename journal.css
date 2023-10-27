@@ -77,6 +77,8 @@
   height: 57px;
   position: sticky;
   background-color: rgba(108, 0, 0, 0.174);
+  border-radius: 15px;
+  vertical-align: middle;
   
 
 
@@ -89,12 +91,15 @@ li, a, button{
   font-size: 16px;
   color: rgb(255, 255, 255);
   text-decoration: none;
+  vertical-align: middle;
 }
 
 .nav_links{
   list-style-type: none;
   display: flex;
   justify-content: space-between;
+  align-content: center;
+  vertical-align: middle;
 }
 
 .nav_links li{
