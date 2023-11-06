@@ -1,7 +1,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
 
-
+/* --------------------------Display Content ---------------------*/
 .content{
   position: relative;
   text-align: center;
@@ -49,10 +49,19 @@
 }
 
 
-.master{
+.display{
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
+
+}
+
+.display2{
+  margin-top: 100px;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+
 
 }
 
