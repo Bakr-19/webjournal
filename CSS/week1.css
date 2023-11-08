@@ -86,10 +86,6 @@ body{
 
 }
 
-.body-content-out{
-
-  
-}
 
 
 .side-image img{
@@ -134,6 +130,44 @@ h3{
   font-size: larger;
   font-weight: 100;
   padding-left: 30px;
+
+}
+/*_________________________________________Section 2*/
+
+.container-2{
+  margin-top: 20px;
+}
+
+
+.body-content-in-two{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  width: 100%;
+  min-height: 100vh;
+  background-color: rgba(6, 23, 97, 0.192);
+
+
+}
+
+
+
+.side-image_two img{
+  width: 80%;
+  object-fit: contain;
+
+
+}
+
+.img2{
+  margin-left: 160px;
+}
+
+
+.side-text_two{
+  width: 80%;
+  min-height: 50vh;
+ 
 
 }
 
