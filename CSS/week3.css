@@ -137,6 +137,52 @@ h3{
 
 }
 
+/*_________________________________________Section 2*/
+
+.container-2{
+  margin-top: 100px;
+}
+
+
+.body-content-in-two{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  width: 100%;
+  min-height: 100vh;
+  background-color: rgba(6, 23, 97, 0.192);
+
+
+}
+
+
+
+.side-image_two img{
+  width: 80%;
+  object-fit: contain;
+  margin-bottom: 50px;
+  border-radius: 20px;
+
+
+}
+
+.img2{
+  margin-left: 160px;
+}
+
+
+.side-text_two{
+  width: 80%;
+  min-height: 50vh;
+ 
+
+}
+
+
+
+
+
+
 
 
 
